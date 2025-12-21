@@ -1,4 +1,4 @@
-<h2>Hi, I'm Sumaiya Afrin 👋✨</h2>
+<h2>Hi, I'm Sumaiya Afrin </h2>
 
 <p><strong>CS Student • Curious Learner • Aspiring Software Developer</strong></p>
 
@@ -12,28 +12,28 @@ I believe in <strong>consistency over shortcuts</strong>. Right now, my focus is
 
 <hr/>
 
-<h3>🌱 What I’m Currently Doing</h3>
+<h3> What I’m Currently Doing</h3>
 <ul>
-  <li>📚 Learning programming fundamentals step by step</li>
-  <li>🧠 Improving problem-solving and logical thinking skills</li>
-  <li>🛠 Getting comfortable with Git, GitHub, and development workflows</li>
+  <li> Learning programming fundamentals step by step</li>
+  <li> Improving problem-solving and logical thinking skills</li>
+  <li> Getting comfortable with Git, GitHub, and development workflows</li>
 </ul>
 
 <hr/>
 
-<h3>💡 Interests</h3>
+<h3> Interests</h3>
 <ul>
-  <li>💻 Software development</li>
-  <li>🚀 Technology and innovation</li>
-  <li>⚙️ Learning how real systems are built</li>
-  <li>🌱 Continuous self-improvement</li>
+  <li> Software development</li>
+  <li> Technology and innovation</li>
+  <li> Learning how real systems are built</li>
+  <li> Continuous self-improvement</li>
 </ul>
 
 <hr/>
 
-<h3>🎯 Long-Term Goals</h3>
+<h3> Long-Term Goals</h3>
 <ul>
-  <li>🎓 Become a skilled and disciplined software developer</li>
-  <li>🧩 Build practical and impactful projects</li>
+  <li> Become a skilled and disciplined software developer</li>
+  <li> Build practical and impactful projects</li>
   <li>📈 Keep learning, improving, and growing with time</li>
 </ul>
