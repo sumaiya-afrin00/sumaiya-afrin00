@@ -35,5 +35,5 @@ I believe in <strong>consistency over shortcuts</strong>. Right now, my focus is
 <ul>
   <li> Become a skilled and disciplined software developer</li>
   <li> Build practical and impactful projects</li>
-  <li>📈 Keep learning, improving, and growing with time</li>
+  <li> Keep learning, improving, and growing with time</li>
 </ul>
