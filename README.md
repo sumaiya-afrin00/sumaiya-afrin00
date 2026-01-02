@@ -3,7 +3,7 @@
 <p><strong>CS Student • Curious Learner • Aspiring Software Developer</strong></p>
 
 <p>
-I’m deeply curious about <strong>technology</strong> and how <strong>software shapes the world</strong>. I enjoy understanding how things work behind the scenes and learning concepts <em>from the ground up</em> instead of rushing results.
+I’m deeply curious about <strong>technology</strong> and how <strong>software shapes the world</strong>. I enjoy understanding how things work behind the scenes and learning concepts <strong>from the ground up</strong> instead of rushing results.
 </p>
 
 <p>
